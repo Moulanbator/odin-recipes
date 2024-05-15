@@ -1,0 +1,65 @@
+body {
+    background-color: lightgrey;
+}
+
+.home{
+    background-color: black;
+    color: white; 
+}
+
+a:link{
+    color: white;
+}
+a:visited{
+    color:red;
+}
+
+.main-title {
+    color: white;
+    background-color: black;
+    font-size: 55px;
+    margin-bottom: auto;
+}
+
+.intro,
+.main-title,
+.subtitles {
+    text-align: center; 
+}
+.subtitles{
+    color: white;
+    background-color: black;
+    font-size: 25px;
+    margin-top: 0.5cm;
+    margin-bottom: 0.4cm;
+}
+
+#second{
+    margin-bottom: 0cm;
+}
+
+.pic {
+    display: block;
+    margin: auto;
+    width: 41%;
+}
+
+div.mylists {
+    text-align: center;
+    font-size: 16px;
+}
+
+ul.myli,
+ol.myli {
+    margin: auto;
+    display: inline-block;
+    text-align: left;
+}
+
+li{
+    line-height: 1.5;
+  }
+
+p{
+    line-height: 0.5;
+}
