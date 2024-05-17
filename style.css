@@ -63,3 +63,37 @@ li{
 p{
     line-height: 0.5;
 }
+
+.indextitle {
+    text-align: center;
+    color: red;
+    background-color: black;
+    padding: 15px;
+    font-size: 35px;
+    width: 695px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.indeximg {
+    display: block;
+    margin: auto;
+    background-color: black;
+    padding: 10px;
+}
+
+div.yodel {
+    text-align: center;
+}
+
+.first,
+.second,
+.third {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    width: 220px;
+    padding: 4px;
+    font-size: 18px;
+    background-color: black;
+}
